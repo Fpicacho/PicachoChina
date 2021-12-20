@@ -13,5 +13,4 @@ I am FangChao Chuai, people call me F_picaco.Front end development is currently 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PicachoChina&hide=TeX&layout=compact)
+![Metrics](https://metrics.lecoq.io/PicachoChina?template=classic&languages=1&introduction=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
