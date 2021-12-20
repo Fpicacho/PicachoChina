@@ -1,3 +1,2 @@
 ### Hi there 👋
-My name is F_picacho, Male, 21 years old。Front End Development Engineer
-
+I am FangChao Chuai, people call me F_picaco.Front end development is currently under way.I am a painting lover & Technology lover. Find out more about me & feel free to connect with me here:
