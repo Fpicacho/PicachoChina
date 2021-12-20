@@ -8,3 +8,10 @@ I am FangChao Chuai, people call me F_picaco.Front end development is currently 
 [![Twitter](https://img.shields.io/badge/-Fpicacho-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.qq.com/)](https://www.qq.com/)
 [![Facebook](https://img.shields.io/badge/-Fpicacho-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.qq.com/)](https://www.qq.com/)
 [![Gmail](https://img.shields.io/badge/-fpicachodl@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://www.qq.com/)](https://www.qq.com/)
+
+## ⚡ Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PicachoChina&hide=TeX&layout=compact)
